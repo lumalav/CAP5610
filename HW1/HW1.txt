@@ -1,0 +1,11 @@
+Q1
+
+PassengerId, Survived, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, Embarked
+
+Q2
+
+Survived, Pclass, Name, Sex, SibSp, Parch, Ticket, Cabin, Embarked
+
+Q3
+
+PassengerId, Age, Fare
